@@ -1,0 +1,14 @@
+This program is an A* implementation on a hex grid.
+
+Press 'M' to toggle display of node id, hex coordinate and nothing.
+Press Enter to proceed to path finding prompts in the terminal.
+
+To fork this repo you will need the following libraries:
+
+Glew
+sfml 2.1
+soil
+
+The libraries must be in the same directory as the repo in order to run correctly.
+
+Please refer to the license
